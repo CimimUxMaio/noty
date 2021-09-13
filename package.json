@@ -1,5 +1,5 @@
 {
-  "name": "note-it",
+  "name": "noty",
   "version": "1.0.0",
   "description": "A template for developing a react app with electron and webpack",
   "main": "./dist/main.bundle.js",
@@ -10,7 +10,8 @@
     "startProd": "cross-env NODE_ENV=production npm run buildAndRun"
   },
   "keywords": [],
-  "author": "",
+  "author": "CimimUxMaio",
+  "repository": { "url": "https://github.com/CimimUxMaio/noty.git" },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.15.5",
