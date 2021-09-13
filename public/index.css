@@ -1,0 +1,44 @@
+body {
+  background-color: #f5faff !important;
+}
+
+.canvas {
+  height: 600px;
+  width: 800px;
+  margin: 2%;
+  background-color: white !important;
+  border-style: solid;
+  border-color: lightgray;
+}
+
+.topic-note {
+  text-align: center !important;
+  font-weight: bold;
+  background: #8e7cc3 !important;
+}
+
+.text-note {
+  text-align: left !important;
+  background: #7dc4c2 !important;
+}
+
+
+.file-explorer {
+  background-color: #9fc5e8 !important;
+}
+
+.preview-page {
+  height: 100%;
+  background-color: white;
+  margin: 5%;
+  padding: 5%;
+  border-color: lightgray;
+  border-style: solid;
+}
+
+
+.file-item {
+  background-color: transparent;
+  border: none;
+  font-size: small;
+}
